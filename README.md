@@ -14,7 +14,7 @@ A simple, beginner-friendly web app to help you track your daily expenses. Add, 
 
 ---
 
-## 📊 Technologies Used
+## 📊 Tech Stack
 
 - HTML, CSS, JavaScript (Vanilla)
 - [Chart.js](https://www.chartjs.org/) for category and monthly expense visualization
